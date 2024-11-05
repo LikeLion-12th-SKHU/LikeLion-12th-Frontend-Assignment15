@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: #4caf50;
+}
+
+.btn {
+  margin: 5px;
+  padding: 10px 20px;
+  background-color: #2196f3;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
